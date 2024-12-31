@@ -1,6 +1,7 @@
 Im locked in
 
-- 🌱 I’m currently learning Rust using the Rust book and rustlings!
+- 🌱 I’m currently learning Rust through projects!
+- 👨🏻‍🔧 I'm currently writing a todo list in rust for personal use
 - 🔭 I’m currently working on finding a job lol
 <!--
 **SabienNguyen/SabienNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
