@@ -1,6 +1,6 @@
 Im locked in
 
-- 🌱 I’m currently learning Rust through projects!
+- 🌱 I am currently learning various things!
 - 👨🏻‍🔧 I'm currently writing a todo list in rust for personal use
 - 🔭 I’m currently working on finding a job lol
 - ⚡ In the field of computer science, I am most interested in ML
