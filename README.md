@@ -1,4 +1,5 @@
 i do not build anything useful
+[play baccarat](https://baccarat-sim.com/)
 <!--
 **SabienNguyen/SabienNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
